@@ -1,4 +1,4 @@
-let array = ["pinki", "red", "green","yello","orange","skyblue"];
+let array = ["pinki", "red", "green","yello","orange","skyblue","blue"];
 let Btn = document.querySelector("div");
 let arr = () => {
     let random = parseInt(Math.random()*6)
