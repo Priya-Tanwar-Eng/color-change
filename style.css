@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* border: 2px solid red; */
+}
+button{
+    background-color: white;
+    padding-inline: 5rem;
+    padding-block: 2rem;
+    border-radius: 5px;
+    /* box-shadow: 0 0.5 0 0.2px rgba(233, 211, 211, 0.3); */
+}
